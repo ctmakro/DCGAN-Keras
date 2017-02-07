@@ -1,5 +1,5 @@
 # DCGAN-Keras
-The correct way to implement GAN in Keras.
+The CORRECT and PERFORMANT way to implement GAN in Keras.
 
 ## How this happened
 DCGAN have been implemented in a lot of frameworks. However, existing Keras and Tensorflow implementations are SLOW due to duplicated computation.
