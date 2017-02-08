@@ -1,6 +1,8 @@
 # DCGAN-Keras
 The CORRECT and PERFORMANT way to implement GAN in Keras.
 
+This is the Tensorflow version, here's another guy who wrote the theano version: https://github.com/bstriner/keras-adversarial
+
 ## How this happened
 DCGAN have been implemented in a lot of frameworks. However, existing Keras and Tensorflow implementations are SLOW due to duplicated computation.
 
