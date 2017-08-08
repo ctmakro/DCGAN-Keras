@@ -39,3 +39,11 @@ I wrote a detailed description to the problem: <https://ctmakro.github.io/site/o
 ## It works
 
 ![](https://ctmakro.github.io/site/on_learning/gan_cifar_32.png)
+
+## License
+
+someone suggest I put a license here.
+
+PUBLIC DOMAIN
+
+USE THIS CODE HOWEVER WHATEVER WHEREVER WHENEVER.
